@@ -16,16 +16,16 @@ else - compress.
 
 Of course there is a help option if you forget something in the syntax.
 
-![img.2](img_2.jpg)
+![img.2](/images/img_2.jpg)
 
 When you finish the compression final information is displayed, so you'll know what was the size 
 of the original file, what is the current size and the time for doing the operation. 
 
-![img.3](img_3.jpg)
+![img.3](/images/img_3.jpg)
 
 In decompression mode there is only info for the taken time.
 
-![img.4](img_4.jpg)
+![img.4](/images/img_4.jpg)
 
 ### *Tests*
 
