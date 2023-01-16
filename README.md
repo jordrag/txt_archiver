@@ -12,7 +12,7 @@ to use (Huffman/huff or LZW/lzw). What actions to be done is automatically detec
 in dependency of file extension, if it is ".dar" then decompress action is applied, if something 
 else - compress.
 
-![img.1](img_1.jpg)
+![img.1](/images/img_1.jpg)
 
 Of course there is a help option if you forget something in the syntax.
 
